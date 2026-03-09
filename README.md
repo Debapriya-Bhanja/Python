@@ -25,6 +25,10 @@ It focuses on:
 - 💻 Writing clean and readable code  
 - 🚀 Preparing for advanced topics (DSA, Web, ML)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400"/>
+</p>
+
 ---
 
 ## 🛠️ Tech & Tools
